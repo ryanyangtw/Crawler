@@ -1,6 +1,6 @@
-## This is a image crawler for inkbox
-#### The link for inkbox: [http://getinkbox.com/collections/all]
+This is a image crawler for inkbox
+The link for inkbox: http://getinkbox.com/collections/all
 
-#### You can execuate to craw the image from inkbox:
+You can execuate to craw the image from inkbox:
   ruby crawler 'http://getinkbox.com/collections/all'
 
